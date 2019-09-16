@@ -1,4 +1,4 @@
-#First Gazebo World
+# First Gazebo World
 
 ----
 This project is a custom Gazebo world that has the following features
