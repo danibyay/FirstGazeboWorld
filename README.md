@@ -11,7 +11,7 @@ This project is a custom Gazebo world that has the following features
 ----
 ## usage
 - Build
-    
+
 `mkdir build && cd build`
 
 `cmake ../`
@@ -24,3 +24,5 @@ This project is a custom Gazebo world that has the following features
 
 
 `gazebo world/smallHospitalWorld &`
+
+![](ref_images/world.png)
